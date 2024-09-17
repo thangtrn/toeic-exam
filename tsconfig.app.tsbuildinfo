@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/enum.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/audiopreview.tsx","./src/components/button.tsx","./src/components/countdown.tsx","./src/components/excelexport.tsx","./src/components/listanswers.tsx","./src/hooks/useanswers.tsx","./src/hooks/usecountdown.tsx"],"version":"5.6.2"}
